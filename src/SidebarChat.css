@@ -1,0 +1,50 @@
+.sidebarchat {
+    display: flex;
+    padding: 20px;
+    cursor: pointer;
+    border-bottom: 2px solid #f6f6f6;
+}
+
+.sidebarchat:hover {
+    background-color: #ebebeb;
+}
+
+.css-1pqm26d-MuiAvatar-img {
+    background-color: skyblue;
+}
+
+.sidebarchat__info>h3 {
+    font-size: 16px;
+    margin-bottom: 8px;
+}
+.sidebarchat__info{
+    margin-left: 15px;
+}
+h5{
+    margin-top: 10px;
+    margin-left: 5px;
+    font-size: 14px;
+}
+.sidebarchat-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.sidebarchat-link {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color: inherit;
+    flex: 1;
+}
+
+.delete-room-button {
+    margin-right: 10px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
